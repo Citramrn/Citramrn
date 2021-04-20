@@ -1,2 +1,7 @@
-![fotoijasah](https://user-images.githubusercontent.com/56731453/115334060-e3a78280-a1c4-11eb-9bf1-f6f05996d1ab.jpg)
+<b>Hi, There :wave:</b>
+
+🔭 I’m Learn Front Web 
+🌱 I’m currently focus on learning Vue Js
+💬 Ask me about Anything
+📫 How to search me: ctrmirna@gmail.com@gmail.com
 
