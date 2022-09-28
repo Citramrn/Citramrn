@@ -24,14 +24,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-### 📊 WakaTime Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ryanaunur&theme=github_dark&layout=compact">
-</p>
-
 ### 📫 Contact Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ryan.hac)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ryanaunur)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nyandevid/)
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ryanaunur)
+[![Linkedin](https://img.shields.io/badge/linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/citra-mirna-wati-786999199/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/nyandevid/](https://www.instagram.com/citramirna/)
+[![Gmail](https://img.shields.io/badge/gmail-eb5145?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ctrmirna@gmail.com)
