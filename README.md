@@ -27,5 +27,5 @@
 ### 📫 Contact Me
 
 [![Linkedin](https://img.shields.io/badge/linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/citra-mirna-wati-786999199/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/nyandevid/](https://www.instagram.com/citramirna/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/citramirna/)
 [![Gmail](https://img.shields.io/badge/gmail-eb5145?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ctrmirna@gmail.com)
