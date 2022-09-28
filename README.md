@@ -1,34 +1,28 @@
-## Hi there, I'm Ryan - aka NyanDev 👋
+## Hi there, Citra Mirna Wati👋
 
-[![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=nyancodeid)](https://github.com/nyancodeid/nyancodeid)
+[![Citramrn GitHub stats](https://github-readme-stats.vercel.app/api?username=Citramrn)](https://github.com/Citramrn/github-readme-stats)
 
-### I'm a Single Fighter Developer!
-- 🔭 I’m currently working on a ton of side project!
-- 🌱 I’m currently learning about Laravel and PHP.
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2022 Goals: Learning about how to be a good software developer, write more readable and maintainable code!
-- ⚡ Fun fact: I love cooking, looking for a bugs and create unfinished side project 
+### I'm a Front End Enthusiast and Wordpress Designer!
+
+- 🔭 I'm currently working on a lot of side projects!
+- 🌱 I'm currently learning about Javascript and ReactJs.
+-  I'm currently learning about Javascript and ReactJs.
+- 👯 I want to collaborate with other developers
+- 🥅 2022 goal: Learn about how to be a good front end developer, write code that is easier to read and maintain, be accepted as a front end engineer in a company.
+- ⚡ Fun facts: I love to cook, look for bugs, look for readable code, seek experience as a developer, find work and create unfinished side projects
 
 ### Tech i used
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next](https://img.shields.io/badge/Next.Js-1867c0?style=for-the-badge&logo=Next.Js&logoColor=7bc6ff)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Deno](https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![AlpineJS](https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-1f2229?style=for-the-badge&logo=React&logoColor=5ed3f3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5c3d85?style=for-the-badge&logo=Bootstrap&logoColor=f9f0fb)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867c0?style=for-the-badge&logo=Vuetify&logoColor=7bc6ff)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
-![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 ### 📊 WakaTime Stats
 <p align="left">
