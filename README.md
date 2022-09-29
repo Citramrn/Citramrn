@@ -11,7 +11,7 @@
 - 🥅 2022 goal: Learn about how to be a good front end developer, write code that is easier to read and maintain, be accepted as a front end engineer in a company.
 - ⚡ Fun facts: I love to cook, look for bugs, look for readable code, seek experience as a developer, find work and create unfinished side projects
 
-### Tech i used
+### 🛠 Tools & Technology
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -24,8 +24,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![Github](https://img.shields.io/badge/sourcetree-8d97a5?style=for-the-badge&logo=sourcetree&logoColor=blue)
-
-
 
 ### 📫 Contact Me
 
