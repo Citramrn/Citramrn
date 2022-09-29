@@ -22,8 +22,8 @@
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867c0?style=for-the-badge&logo=Vuetify&logoColor=7bc6ff)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Citramrn)
-![Github](https://img.shields.io/badge/sourcetree-8d97a5?style=for-the-badge&logo=sourcetree&logoColor=blue)](https://www.sourcetreeapp.com/)
+![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
+![Github](https://img.shields.io/badge/sourcetree-8d97a5?style=for-the-badge&logo=sourcetree&logoColor=blue)
 
 
 
